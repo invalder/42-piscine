@@ -1,0 +1,5 @@
+Credentials cache: API:15BB8B17-324B-4D93-849A-365B7A1494C6
+        Principal: nnakarac@42BANGKOK.COM
+
+  Issued                Expires               Principal
+Nov 24 22:51:19 2021  Nov 25 08:51:14 2021  krbtgt/42BANGKOK.COM@42BANGKOK.COM
